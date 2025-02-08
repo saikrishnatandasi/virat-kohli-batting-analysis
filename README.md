@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<body>
-    <h1>Virat Kohli Batting Analysis</h1>
+ <h1>Virat Kohli Batting Analysis</h1>
 <h2>Project Overview</h2>
     <p>This project aims to analyze the batting performance of Virat Kohli, one of the most prominent cricketers in the world. The analysis involves web scraping to gather data, data cleaning to prepare the data for analysis, and creating an interactive Power BI dashboard for visualization.</p>
 
@@ -16,7 +13,7 @@
 
  <h3>1. Web Scraping</h3>
     <p><strong>Script</strong>: <code>web_scraping.py</code></p>
-    <p><strong>Objective</strong>: Collect data on Virat Kohli's batting performance from various cricket websites.</p>
+    <p><strong>Objective</strong>: Collect data on Virat Kohli's batting performance from ESPNCricinfo website.</p>
     <p><strong>Libraries Used</strong>: </p>
     <ul>
         <li><code>requests</code></li>
@@ -50,32 +47,10 @@
     <p><strong>Visuals Included</strong>:</p>
     <ul>
         <li>Runs scored over the years.</li>
-        <li>Batting average and strike rate.</li>
+        <li>Various Batting KPIs like Batting average,Strike rate etc..,</li>
         <li>Performance in different formats (Test, ODI, T20).</li>
-        <li>Comparison with other players.</li>
     </ul>
 
-   <h2>Installation and Usage</h2>
-    <ol>
-        <li><strong>Clone the repository</strong>:
-            <pre><code>git clone https://github.com/yourusername/virat-kohli-batting-analysis.git
-cd virat-kohli-batting-analysis</code></pre>
-        </li>
-        <li><strong>Install dependencies</strong>:
-            <pre><code>pip install -r requirements.txt</code></pre>
-        </li>
-        <li><strong>Run web scraping script</strong>:
-            <pre><code>python web_scraping.py</code></pre>
-        </li>
-        <li><strong>Run data cleaning script</strong>:
-            <pre><code>python data_cleaning.py</code></pre>
-        </li>
-        <li><strong>Open Power BI file</strong>:
-            <ul>
-                <li>Launch Power BI Desktop.</li>
-                <li>Open <code>virat_kohli_dashboard.pbix</code>.</li>
-            </ul>
-        </li>
-    </ol>
+
 
    
