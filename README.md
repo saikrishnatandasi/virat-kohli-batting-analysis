@@ -12,7 +12,7 @@
 <h2>Steps Involved</h2>
 
  <h3>1. Web Scraping</h3>
-    <p><strong>Script</strong>: <code>web_scraping.py</code></p>
+    <p><strong>Script</strong>: <code>Virat Kohli Batting Stats.ipynb</code></p>
     <p><strong>Objective</strong>: Collect data on Virat Kohli's batting performance from ESPNCricinfo website.</p>
     <p><strong>Libraries Used</strong>: </p>
     <ul>
@@ -28,7 +28,7 @@
     </ol>
 
  <h3>2. Data Cleaning</h3>
-    <p><strong>Script</strong>: <code>data_cleaning.py</code></p>
+    <p><strong>Script</strong>: <code>Data Cleaning.ipynb</code></p>
     <p><strong>Objective</strong>: Clean and preprocess the scraped data to make it suitable for analysis.</p>
     <p><strong>Libraries Used</strong>:</p>
     <ul>
@@ -42,7 +42,7 @@
         <li>Add derived metrics for enhanced analysis.</li>
     </ol>
     <h3>3. Power BI Dashboard</h3>
-    <p><strong>File</strong>: <code>virat_kohli_dashboard.pbix</code></p>
+    <p><strong>File</strong>: <code>Virat DashBoard.pbix</code></p>
     <p><strong>Objective</strong>: Create an interactive dashboard to visualize Virat Kohli's batting performance.</p>
     <p><strong>Visuals Included</strong>:</p>
     <ul>
