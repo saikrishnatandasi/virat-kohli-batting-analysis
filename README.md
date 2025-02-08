@@ -1,25 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Virat Kohli Batting Analysis</title>
-</head>
+
 <body>
     <h1>Virat Kohli Batting Analysis</h1>
-
-    <h2>Project Overview</h2>
+<h2>Project Overview</h2>
     <p>This project aims to analyze the batting performance of Virat Kohli, one of the most prominent cricketers in the world. The analysis involves web scraping to gather data, data cleaning to prepare the data for analysis, and creating an interactive Power BI dashboard for visualization.</p>
 
-    <h2>Tools and Technologies</h2>
+ <h2>Tools and Technologies</h2>
     <ul>
         <li><strong>Python</strong>: For web scraping and data cleaning.</li>
         <li><strong>Power BI</strong>: For data visualization and dashboard creation.</li>
     </ul>
 
-    <h2>Steps Involved</h2>
+<h2>Steps Involved</h2>
 
-    <h3>1. Web Scraping</h3>
+ <h3>1. Web Scraping</h3>
     <p><strong>Script</strong>: <code>web_scraping.py</code></p>
     <p><strong>Objective</strong>: Collect data on Virat Kohli's batting performance from various cricket websites.</p>
     <p><strong>Libraries Used</strong>: </p>
@@ -35,7 +30,7 @@
         <li>Store the data in a structured format (CSV).</li>
     </ol>
 
-    <h3>2. Data Cleaning</h3>
+ <h3>2. Data Cleaning</h3>
     <p><strong>Script</strong>: <code>data_cleaning.py</code></p>
     <p><strong>Objective</strong>: Clean and preprocess the scraped data to make it suitable for analysis.</p>
     <p><strong>Libraries Used</strong>:</p>
@@ -49,7 +44,6 @@
         <li>Format and standardize data.</li>
         <li>Add derived metrics for enhanced analysis.</li>
     </ol>
-
     <h3>3. Power BI Dashboard</h3>
     <p><strong>File</strong>: <code>virat_kohli_dashboard.pbix</code></p>
     <p><strong>Objective</strong>: Create an interactive dashboard to visualize Virat Kohli's batting performance.</p>
@@ -61,7 +55,7 @@
         <li>Comparison with other players.</li>
     </ul>
 
-    <h2>Installation and Usage</h2>
+   <h2>Installation and Usage</h2>
     <ol>
         <li><strong>Clone the repository</strong>:
             <pre><code>git clone https://github.com/yourusername/virat-kohli-batting-analysis.git
@@ -84,10 +78,4 @@ cd virat-kohli-batting-analysis</code></pre>
         </li>
     </ol>
 
-    <h2>Contributing</h2>
-    <p>We welcome contributions from the community. Please submit a pull request with a clear description of the changes.</p>
-
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License.</p>
-
-    <h2>Acknowledgements</
+   
