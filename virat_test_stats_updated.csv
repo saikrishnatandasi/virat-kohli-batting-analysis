@@ -1,0 +1,220 @@
+Runs,Mins,BF,4s,6s,SR,Pos,Dismissal,Inns,Opposition,Ground,Start Date,Scorecard,is_not_out,DNB
+4,13,10,1,0,40.0,5,caught,1,West Indies,Kingston,2011-06-20,Test # 1997,0,0
+15,72,54,2,0,27.77,5,caught,3,West Indies,Kingston,2011-06-20,Test # 1997,0,0
+0,1,2,0,0,0.0,5,caught,1,West Indies,Bridgetown,2011-06-28,Test # 1998,0,0
+27,118,107,1,1,25.23,5,caught,3,West Indies,Bridgetown,2011-06-28,Test # 1998,0,0
+30,62,53,2,0,56.6,5,caught,2,West Indies,Roseau,2011-07-06,Test # 1999,0,0
+0,0,0,0,0,0.0,-,-,4,West Indies,Roseau,2011-07-06,Test # 1999,0,1
+52,154,111,5,0,46.84,6,caught,2,West Indies,Wankhede,2011-11-22,Test # 2019,0,0
+63,136,114,3,1,55.26,6,caught,4,West Indies,Wankhede,2011-11-22,Test # 2019,0,0
+11,28,21,1,0,52.38,7,caught,2,Australia,Melbourne,2011-12-26,Test # 2025,0,0
+0,3,1,0,0,0.0,6,lbw,4,Australia,Melbourne,2011-12-26,Test # 2025,0,0
+23,50,41,3,0,56.09,6,caught,1,Australia,Sydney,2012-01-03,Test # 2027,0,0
+9,35,24,2,0,37.5,6,lbw,3,Australia,Sydney,2012-01-03,Test # 2027,0,0
+44,107,81,6,0,54.32,6,caught,1,Australia,W.A.C.A,2012-01-13,Test # 2029,0,0
+75,191,136,9,0,55.14,6,caught,3,Australia,W.A.C.A,2012-01-13,Test # 2029,0,0
+116,237,213,11,1,54.46,6,lbw,2,Australia,Adelaide,2012-01-24,Test # 2031,0,0
+22,96,62,2,0,35.48,6,run out,4,Australia,Adelaide,2012-01-24,Test # 2031,0,0
+58,143,107,8,0,54.2,5,caught,1,New Zealand,Hyderabad,2012-08-23,Test # 2054,0,0
+103,284,193,14,1,53.36,5,lbw,2,New Zealand,Bengaluru,2012-08-31,Test # 2055,0,0
+51,130,82,9,0,62.19,5,not out,4,New Zealand,Bengaluru,2012-08-31,Test # 2055,1,0
+19,70,67,3,0,28.35,5,bowled,1,England,Ahmedabad,2012-11-15,Test # 2058,0,0
+14,17,21,3,0,66.66,3,not out,4,England,Ahmedabad,2012-11-15,Test # 2058,1,0
+19,65,55,3,0,34.54,5,caught,1,England,Wankhede,2012-11-23,Test # 2062,0,0
+7,16,13,1,0,53.84,5,caught,3,England,Wankhede,2012-11-23,Test # 2062,0,0
+6,31,24,1,0,25.0,5,caught,1,England,Eden Gardens,2012-12-05,Test # 2065,0,0
+20,86,60,3,0,33.33,5,caught,3,England,Eden Gardens,2012-12-05,Test # 2065,0,0
+103,356,295,11,0,34.91,5,lbw,2,England,Nagpur,2012-12-13,Test # 2066,0,0
+107,266,206,15,1,51.94,5,caught,2,Australia,Chennai,2013-02-22,Test # 2074,0,0
+0,0,0,0,0,0.0,-,-,4,Australia,Chennai,2013-02-22,Test # 2074,0,1
+34,119,92,3,0,36.95,5,caught,2,Australia,Hyderabad,2013-03-02,Test # 2076,0,0
+67,157,129,7,1,51.93,5,not out,2,Australia,Mohali,2013-03-14,Test # 2081,1,0
+34,80,61,6,0,55.73,3,caught,4,Australia,Mohali,2013-03-14,Test # 2081,0,0
+1,11,8,0,0,12.5,3,lbw,2,Australia,Delhi,2013-03-22,Test # 2085,0,0
+41,76,60,4,0,68.33,3,lbw,4,Australia,Delhi,2013-03-22,Test # 2085,0,0
+3,13,5,0,0,60.0,5,caught,2,West Indies,Eden Gardens,2013-11-06,Test # 2101,0,0
+57,80,78,5,0,73.07,5,caught,2,West Indies,Wankhede,2013-11-14,Test # 2102,0,0
+119,257,181,18,0,65.74,4,caught,1,South Africa,Johannesburg,2013-12-18,Test # 2108,0,0
+96,254,193,9,0,49.74,4,caught,3,South Africa,Johannesburg,2013-12-18,Test # 2108,0,0
+46,114,87,5,0,52.87,4,caught,1,South Africa,Durban,2013-12-26,Test # 2111,0,0
+11,26,27,1,0,40.74,4,caught,3,South Africa,Durban,2013-12-26,Test # 2111,0,0
+4,17,13,1,0,30.76,4,caught,2,New Zealand,Auckland,2014-02-06,Test # 2118,0,0
+67,131,102,12,0,65.68,4,caught,4,New Zealand,Auckland,2014-02-06,Test # 2118,0,0
+38,131,93,4,0,40.86,5,caught,2,New Zealand,Wellington,2014-02-14,Test # 2120,0,0
+105,195,135,15,1,77.77,4,not out,4,New Zealand,Wellington,2014-02-14,Test # 2120,1,0
+1,6,8,0,0,12.5,4,caught,1,England,Nottingham,2014-07-09,Test # 2128,0,0
+8,39,29,1,0,27.58,4,lbw,3,England,Nottingham,2014-07-09,Test # 2128,0,0
+25,39,34,4,0,73.52,4,caught,1,England,Lord's,2014-07-17,Test # 2130,0,0
+0,1,1,0,0,0.0,4,bowled,3,England,Lord's,2014-07-17,Test # 2130,0,0
+39,119,75,3,0,52.0,4,caught,2,England,Southampton,2014-07-27,Test # 2132,0,0
+28,77,56,3,0,50.0,4,caught,4,England,Southampton,2014-07-27,Test # 2132,0,0
+0,3,2,0,0,0.0,4,caught,1,England,Manchester,2014-08-07,Test # 2134,0,0
+7,15,11,1,0,63.63,4,caught,3,England,Manchester,2014-08-07,Test # 2134,0,0
+6,34,18,1,0,33.33,4,lbw,1,England,The Oval,2014-08-15,Test # 2137,0,0
+20,80,54,2,0,37.03,4,caught,3,England,The Oval,2014-08-15,Test # 2137,0,0
+115,267,184,12,0,62.5,4,caught,2,Australia,Adelaide,2014-12-09,Test # 2148,0,0
+141,279,175,16,1,80.57,4,caught,4,Australia,Adelaide,2014-12-09,Test # 2148,0,0
+19,50,27,1,0,70.37,4,caught,1,Australia,Brisbane,2014-12-17,Test # 2149,0,0
+1,14,11,0,0,9.09,4,bowled,3,Australia,Brisbane,2014-12-17,Test # 2149,0,0
+169,380,272,18,0,62.13,4,caught,2,Australia,Melbourne,2014-12-26,Test # 2152,0,0
+54,134,99,7,0,54.54,4,caught,4,Australia,Melbourne,2014-12-26,Test # 2152,0,0
+147,315,230,20,0,63.91,4,caught,2,Australia,Sydney,2015-01-06,Test # 2156,0,0
+46,123,95,3,0,48.42,4,caught,4,Australia,Sydney,2015-01-06,Test # 2156,0,0
+14,17,22,2,0,63.63,4,bowled,1,Bangladesh,Fatullah,2015-06-10,Test # 2165,0,0
+103,266,191,11,0,53.92,4,lbw,2,Sri Lanka,Galle,2015-08-12,Test # 2176,0,0
+3,14,10,0,0,30.0,5,caught,4,Sri Lanka,Galle,2015-08-12,Test # 2176,0,0
+78,178,107,8,1,72.89,4,caught,1,Sri Lanka,Colombo (PSS),2015-08-20,Test # 2177,0,0
+10,33,19,0,0,52.63,4,lbw,3,Sri Lanka,Colombo (PSS),2015-08-20,Test # 2177,0,0
+18,96,60,3,0,30.0,4,caught,1,Sri Lanka,Colombo (SSC),2015-08-28,Test # 2179,0,0
+21,87,63,2,0,33.33,4,caught,3,Sri Lanka,Colombo (SSC),2015-08-28,Test # 2179,0,0
+1,5,4,0,0,25.0,4,caught,1,South Africa,Mohali,2015-11-05,Test # 2186,0,0
+29,92,71,4,0,40.84,4,caught,3,South Africa,Mohali,2015-11-05,Test # 2186,0,0
+0,0,0,0,0,0.0,-,-,2,South Africa,Bengaluru,2015-11-14,Test # 2188,0,1
+22,73,55,2,0,40.0,4,caught,1,South Africa,Nagpur,2015-11-25,Test # 2189,0,0
+16,49,30,2,0,53.33,4,caught,3,South Africa,Nagpur,2015-11-25,Test # 2189,0,0
+44,74,62,7,0,70.96,4,caught,1,South Africa,Delhi,2015-12-03,Test # 2191,0,0
+88,259,165,10,0,53.33,5,lbw,3,South Africa,Delhi,2015-12-03,Test # 2191,0,0
+200,375,283,24,0,70.67,4,bowled,1,West Indies,North Sound,2016-07-21,Test # 2207,0,0
+44,144,90,4,1,48.88,4,caught,2,West Indies,Kingston,2016-07-30,Test # 2211,0,0
+3,17,8,0,0,37.5,3,caught,1,West Indies,Gros Islet,2016-08-09,Test # 2215,0,0
+4,21,17,0,0,23.52,3,lbw,3,West Indies,Gros Islet,2016-08-09,Test # 2215,0,0
+0,0,0,0,0,0.0,-,-,-,West Indies,Port of Spain,2016-08-18,Test # 2218,0,1
+9,12,10,2,0,90.0,4,caught,1,New Zealand,Kanpur,2016-09-22,Test # 2221,0,0
+18,45,40,3,0,45.0,4,caught,3,New Zealand,Kanpur,2016-09-22,Test # 2221,0,0
+9,42,28,1,0,32.14,4,caught,1,New Zealand,Eden Gardens,2016-09-30,Test # 2222,0,0
+45,82,65,7,0,69.23,4,lbw,3,New Zealand,Eden Gardens,2016-09-30,Test # 2222,0,0
+211,536,366,20,0,57.65,4,lbw,1,New Zealand,Indore,2016-10-08,Test # 2223,0,0
+17,36,28,1,0,60.71,4,lbw,3,New Zealand,Indore,2016-10-08,Test # 2223,0,0
+40,135,95,5,0,42.1,4,hit wicket,2,England,Rajkot,2016-11-09,Test # 2232,0,0
+49,129,98,6,0,50.0,4,not out,4,England,Rajkot,2016-11-09,Test # 2232,1,0
+167,401,267,18,0,62.54,4,caught,1,England,Visakhapatnam,2016-11-17,Test # 2235,0,0
+81,172,109,8,0,74.31,4,caught,3,England,Visakhapatnam,2016-11-17,Test # 2235,0,0
+62,161,127,9,0,48.81,4,caught,2,England,Mohali,2016-11-26,Test # 2238,0,0
+6,11,11,0,0,54.54,4,not out,4,England,Mohali,2016-11-26,Test # 2238,1,0
+235,515,340,25,1,69.11,4,caught,2,England,Wankhede,2016-12-08,Test # 2239,0,0
+15,44,29,1,0,51.72,4,caught,2,England,Chennai,2016-12-16,Test # 2241,0,0
+204,295,246,24,0,82.92,4,lbw,1,Bangladesh,Hyderabad,2017-02-09,Test # 2249,0,0
+38,51,40,2,1,95.0,4,caught,3,Bangladesh,Hyderabad,2017-02-09,Test # 2249,0,0
+0,2,2,0,0,0.0,4,caught,2,Australia,Pune,2017-02-23,Test # 2250,0,0
+13,33,37,1,0,35.13,4,bowled,4,Australia,Pune,2017-02-23,Test # 2250,0,0
+12,25,17,2,0,70.58,4,lbw,1,Australia,Bengaluru,2017-03-04,Test # 2251,0,0
+15,34,25,1,0,60.0,4,lbw,3,Australia,Bengaluru,2017-03-04,Test # 2251,0,0
+6,38,23,0,0,26.08,4,caught,2,Australia,Ranchi,2017-03-16,Test # 2256,0,0
+3,15,8,0,0,37.5,4,caught,1,Sri Lanka,Galle,2017-07-26,Test # 2265,0,0
+103,158,136,5,1,75.73,4,not out,3,Sri Lanka,Galle,2017-07-26,Test # 2265,1,0
+13,31,29,2,0,44.82,4,caught,1,Sri Lanka,Colombo (SSC),2017-08-03,Test # 2267,0,0
+42,119,84,3,0,50.0,4,caught,1,Sri Lanka,Pallekele,2017-08-12,Test # 2269,0,0
+0,18,11,0,0,0.0,4,lbw,1,Sri Lanka,Eden Gardens,2017-11-16,Test # 2281,0,0
+104,208,119,12,2,87.39,4,not out,3,Sri Lanka,Eden Gardens,2017-11-16,Test # 2281,1,0
+213,386,267,17,2,79.77,4,caught,2,Sri Lanka,Nagpur,2017-11-24,Test # 2283,0,0
+243,447,287,25,0,84.66,4,lbw,1,Sri Lanka,Delhi,2017-12-02,Test # 2286,0,0
+50,89,58,3,0,86.2,5,caught,3,Sri Lanka,Delhi,2017-12-02,Test # 2286,0,0
+5,14,13,0,0,38.46,4,caught,2,South Africa,Cape Town,2018-01-05,Test # 2292,0,0
+28,62,40,4,0,70.0,4,lbw,4,South Africa,Cape Town,2018-01-05,Test # 2292,0,0
+153,379,217,15,0,70.5,4,caught,2,South Africa,Centurion,2018-01-13,Test # 2293,0,0
+5,22,20,1,0,25.0,4,lbw,4,South Africa,Centurion,2018-01-13,Test # 2293,0,0
+54,146,106,9,0,50.94,4,caught,1,South Africa,Johannesburg,2018-01-24,Test # 2294,0,0
+41,131,79,6,0,51.89,5,bowled,3,South Africa,Johannesburg,2018-01-24,Test # 2294,0,0
+149,277,225,22,1,66.22,4,caught,2,England,Birmingham,2018-08-01,Test # 2314,0,0
+51,185,93,4,0,54.83,4,lbw,4,England,Birmingham,2018-08-01,Test # 2314,0,0
+23,73,57,2,0,40.35,4,caught,1,England,Lord's,2018-08-09,Test # 2315,0,0
+17,57,29,2,0,58.62,5,caught,3,England,Lord's,2018-08-09,Test # 2315,0,0
+97,243,152,11,0,63.81,4,caught,1,England,Nottingham,2018-08-18,Test # 2316,0,0
+103,292,197,10,0,52.28,4,lbw,3,England,Nottingham,2018-08-18,Test # 2316,0,0
+46,100,71,6,0,64.78,4,caught,2,England,Southampton,2018-08-30,Test # 2317,0,0
+58,170,130,4,0,44.61,4,caught,4,England,Southampton,2018-08-30,Test # 2317,0,0
+49,112,70,6,0,70.0,4,caught,2,England,The Oval,2018-09-07,Test # 2318,0,0
+0,3,1,0,0,0.0,4,caught,4,England,The Oval,2018-09-07,Test # 2318,0,0
+139,341,230,10,0,60.43,4,caught,1,West Indies,Rajkot,2018-10-04,Test # 2319,0,0
+45,86,78,5,0,57.69,4,lbw,2,West Indies,Hyderabad,2018-10-12,Test # 2321,0,0
+0,0,0,0,0,0.0,-,-,4,West Indies,Hyderabad,2018-10-12,Test # 2321,0,1
+3,17,16,0,0,18.75,4,caught,1,Australia,Adelaide,2018-12-06,Test # 2333,0,0
+34,132,104,3,0,32.69,4,caught,3,Australia,Adelaide,2018-12-06,Test # 2333,0,0
+123,373,257,13,1,47.85,4,caught,2,Australia,Perth,2018-12-14,Test # 2334,0,0
+17,64,40,2,0,42.5,4,caught,4,Australia,Perth,2018-12-14,Test # 2334,0,0
+82,305,204,9,0,40.19,4,caught,1,Australia,Melbourne,2018-12-26,Test # 2337,0,0
+0,6,4,0,0,0.0,4,caught,3,Australia,Melbourne,2018-12-26,Test # 2337,0,0
+23,0,59,4,0,38.98,4,caught,1,Australia,Sydney,2019-01-03,Test # 2339,0,0
+9,0,12,2,0,75.0,4,caught,1,West Indies,North Sound,2019-08-22,Test # 2358,0,0
+51,0,113,2,0,45.13,4,caught,3,West Indies,North Sound,2019-08-22,Test # 2358,0,0
+76,211,163,10,0,46.62,4,caught,1,West Indies,Kingston,2019-08-30,Test # 2359,0,0
+0,3,1,0,0,0.0,4,caught,3,West Indies,Kingston,2019-08-30,Test # 2359,0,0
+20,0,40,4,0,50.0,4,caught,1,South Africa,Visakhapatnam,2019-10-02,Test # 2363,0,0
+31,0,25,3,1,124.0,5,not out,3,South Africa,Visakhapatnam,2019-10-02,Test # 2363,1,0
+254,0,336,33,2,75.59,4,not out,1,South Africa,Pune,2019-10-10,Test # 2364,1,0
+12,0,22,2,0,54.54,4,lbw,1,South Africa,Ranchi,2019-10-19,Test # 2365,0,0
+0,0,2,0,0,0.0,4,lbw,2,Bangladesh,Indore,2019-11-14,Test # 2366,0,0
+136,0,194,18,0,70.1,4,caught,2,Bangladesh,Eden Gardens,2019-11-22,Test # 2369,0,0
+2,9,7,0,0,28.57,4,caught,1,New Zealand,Wellington,2020-02-21,Test # 2385,0,0
+19,61,43,3,0,44.18,4,caught,3,New Zealand,Wellington,2020-02-21,Test # 2385,0,0
+3,23,15,0,0,20.0,4,lbw,1,New Zealand,Christchurch,2020-02-29,Test # 2387,0,0
+14,40,30,3,0,46.66,4,lbw,3,New Zealand,Christchurch,2020-02-29,Test # 2387,0,0
+74,244,180,8,0,41.11,4,run out,1,Australia,Adelaide,2020-12-17,Test # 2396,0,0
+4,13,8,1,0,50.0,5,caught,3,Australia,Adelaide,2020-12-17,Test # 2396,0,0
+11,69,48,0,0,22.91,4,caught,2,England,Chennai,2021-02-05,Test # 2409,0,0
+72,153,104,9,0,69.23,4,bowled,4,England,Chennai,2021-02-05,Test # 2409,0,0
+0,6,5,0,0,0.0,4,bowled,1,England,Chennai,2021-02-13,Test # 2411,0,0
+62,200,149,7,0,41.61,4,lbw,3,England,Chennai,2021-02-13,Test # 2411,0,0
+27,85,58,3,0,46.55,4,bowled,2,England,Ahmedabad,2021-02-24,Test # 2412,0,0
+0,0,0,0,0,0.0,-,-,4,England,Ahmedabad,2021-02-24,Test # 2412,0,1
+0,13,8,0,0,0.0,4,caught,2,England,Ahmedabad,2021-03-04,Test # 2414,0,0
+44,196,132,1,0,33.33,4,lbw,1,New Zealand,Southampton,2021-06-18,Test # 2425,0,0
+13,43,29,0,0,44.82,4,caught,3,New Zealand,Southampton,2021-06-18,Test # 2425,0,0
+0,2,1,0,0,0.0,4,caught,2,England,Nottingham,2021-08-04,Test # 2428,0,0
+0,0,0,0,0,0.0,-,-,4,England,Nottingham,2021-08-04,Test # 2428,0,1
+42,152,103,3,0,40.77,4,caught,1,England,Lord's,2021-08-12,Test # 2429,0,0
+20,54,31,4,0,64.51,4,caught,3,England,Lord's,2021-08-12,Test # 2429,0,0
+7,31,17,1,0,41.17,4,caught,1,England,Leeds,2021-08-25,Test # 2432,0,0
+55,173,125,8,0,44.0,4,caught,3,England,Leeds,2021-08-25,Test # 2432,0,0
+50,133,96,8,0,52.08,4,caught,1,England,The Oval,2021-09-02,Test # 2433,0,0
+44,151,96,7,0,45.83,4,caught,3,England,The Oval,2021-09-02,Test # 2433,0,0
+0,8,4,0,0,0.0,4,lbw,1,New Zealand,Wankhede,2021-12-03,Test # 2438,0,0
+36,111,84,1,1,42.85,4,bowled,3,New Zealand,Wankhede,2021-12-03,Test # 2438,0,0
+35,108,94,4,0,37.23,4,caught,1,South Africa,Centurion,2021-12-26,Test # 2443,0,0
+18,41,32,4,0,56.25,5,caught,3,South Africa,Centurion,2021-12-26,Test # 2443,0,0
+79,273,201,12,1,39.3,4,caught,1,South Africa,Cape Town,2022-01-11,Test # 2448,0,0
+29,193,143,4,0,20.27,4,caught,3,South Africa,Cape Town,2022-01-11,Test # 2448,0,0
+45,106,76,5,0,59.21,4,bowled,1,Sri Lanka,Mohali,2022-03-04,Test # 2452,0,0
+23,63,48,2,0,47.91,4,lbw,1,Sri Lanka,Bengaluru,2022-03-12,Test # 2456,0,0
+13,27,16,1,0,81.25,4,lbw,3,Sri Lanka,Bengaluru,2022-03-12,Test # 2456,0,0
+11,33,19,2,0,57.89,4,bowled,1,England,Birmingham,2022-07-01,Test # 2470,0,0
+20,64,40,4,0,50.0,4,caught,3,England,Birmingham,2022-07-01,Test # 2470,0,0
+1,8,5,0,0,20.0,4,lbw,1,Bangladesh,Chattogram,2022-12-14,Test # 2481,0,0
+19,40,29,0,0,65.51,4,not out,3,Bangladesh,Chattogram,2022-12-14,Test # 2481,1,0
+24,91,73,3,0,32.87,4,caught,2,Bangladesh,Mirpur,2022-12-22,Test # 2484,0,0
+1,20,22,0,0,4.54,5,caught,4,Bangladesh,Mirpur,2022-12-22,Test # 2484,0,0
+12,27,26,2,0,46.15,5,caught,2,Australia,Nagpur,2023-02-09,Test # 2490,0,0
+44,127,84,4,0,52.38,4,lbw,2,Australia,Delhi,2023-02-17,Test # 2493,0,0
+20,47,31,3,0,64.51,4,stumped,4,Australia,Delhi,2023-02-17,Test # 2493,0,0
+22,64,52,2,0,42.3,4,lbw,1,Australia,Indore,2023-03-01,Test # 2496,0,0
+13,35,26,2,0,50.0,4,lbw,3,Australia,Indore,2023-03-01,Test # 2496,0,0
+186,517,364,15,0,51.09,4,caught,2,Australia,Ahmedabad,2023-03-09,Test # 2499,0,0
+14,56,31,2,0,45.16,4,caught,2,Australia,The Oval,2023-06-07,Test # 2505,0,0
+49,115,78,7,0,62.82,4,caught,4,Australia,The Oval,2023-06-07,Test # 2505,0,0
+76,262,182,5,0,41.75,4,caught,2,West Indies,Roseau,2023-07-12,Test # 2510,0,0
+121,272,206,11,0,58.73,4,run out,1,West Indies,Port of Spain,2023-07-20,Test # 2513,0,0
+0,0,0,0,0,0.0,-,-,3,West Indies,Port of Spain,2023-07-20,Test # 2513,0,1
+38,96,64,5,0,59.37,4,caught,1,South Africa,Centurion,2023-12-26,Test # 2520,0,0
+76,137,82,12,1,92.68,4,caught,3,South Africa,Centurion,2023-12-26,Test # 2520,0,0
+46,103,59,6,1,77.96,4,caught,2,South Africa,Cape Town,2024-01-03,Test # 2522,0,0
+12,13,11,2,0,109.09,4,caught,4,South Africa,Cape Town,2024-01-03,Test # 2522,0,0
+6,9,6,0,0,100.0,4,caught,1,Bangladesh,Chennai,2024-09-19,Test # 2550,0,0
+17,43,37,2,0,45.94,4,lbw,3,Bangladesh,Chennai,2024-09-19,Test # 2550,0,0
+47,50,35,4,1,134.28,5,bowled,2,Bangladesh,Kanpur,2024-09-27,Test # 2552,0,0
+29,40,37,4,0,78.37,4,not out,4,Bangladesh,Kanpur,2024-09-27,Test # 2552,1,0
+0,12,9,0,0,0.0,3,caught,1,New Zealand,Bengaluru,2024-10-16,Test # 2555,0,0
+70,136,102,8,1,68.62,3,caught,3,New Zealand,Bengaluru,2024-10-16,Test # 2555,0,0
+1,6,9,0,0,11.11,4,bowled,2,New Zealand,Pune,2024-10-24,Test # 2557,0,0
+17,55,40,2,0,42.5,4,lbw,4,New Zealand,Pune,2024-10-24,Test # 2557,0,0
+4,5,6,1,0,66.66,5,run out,2,New Zealand,Wankhede,2024-11-01,Test # 2560,0,0
+1,6,7,0,0,14.28,4,caught,4,New Zealand,Wankhede,2024-11-01,Test # 2560,0,0
+5,25,12,0,0,41.66,4,caught,1,Australia,Perth,2024-11-22,Test # 2561,0,0
+100,226,143,8,2,69.93,4,not out,3,Australia,Perth,2024-11-22,Test # 2561,1,0
+7,8,8,1,0,87.5,4,caught,1,Australia,Adelaide,2024-12-06,Test # 2568,0,0
+11,31,21,1,0,52.38,4,caught,3,Australia,Adelaide,2024-12-06,Test # 2568,0,0
+3,25,16,0,0,18.75,4,caught,2,Australia,Brisbane,2024-12-14,Test # 2570,0,0
+0,0,0,0,0,0.0,-,-,4,Australia,Brisbane,2024-12-14,Test # 2570,0,1
+36,125,86,4,0,41.86,4,caught,2,Australia,Melbourne,2024-12-26,Test # 2571,0,0
+5,40,29,0,0,17.24,4,caught,4,Australia,Melbourne,2024-12-26,Test # 2571,0,0
+17,101,69,0,0,24.63,4,caught,1,Australia,Sydney,2025-01-03,Test # 2575,0,0
+6,14,12,1,0,50.0,4,caught,3,Australia,Sydney,2025-01-03,Test # 2575,0,0
