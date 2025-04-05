@@ -48,7 +48,7 @@
     <ul>
         <li>Runs scored over the years.</li>
         <li>Various Batting KPIs like Batting average,Strike rate etc..,</li>
-        <li>Performance in different formats (Test, ODI, T20).</li>
+        <li>Performance in different formats (Test, ODI, T20I, IPL).</li>
     </ul>
 
 
